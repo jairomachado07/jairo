@@ -3,7 +3,7 @@ package jairo;
 public class silva {
 
 	public silva() {
-		// TODO Auto-generated constructor stub
+		System.out.println("Oi");
 	}
 
 	public static void main(String[] args) {
